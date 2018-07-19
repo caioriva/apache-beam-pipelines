@@ -1,0 +1,15 @@
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/PickWordsFn.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/KeyValueToStringFn.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/BigQueryField.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/pipeline/PipelineConstructor.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/App.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/BigQueryOptions.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/WordCountBigQueryPipelineConstructor.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/BigQueryFieldFn.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/WriteToBigQuery.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/pipeline/Options.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/WriteToBigQueryData.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/CountWords.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/WordCountConstants.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/bigquery/CreateRowFn.java
+/home/DAITAN/criva/eclipse-workspace/beam-word-count/src/main/java/com/criva/beam_word_count/wordcount/WordCountPipelineConstructor.java

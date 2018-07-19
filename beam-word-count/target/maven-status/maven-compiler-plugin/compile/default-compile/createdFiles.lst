@@ -1,0 +1,14 @@
+com/criva/beam_word_count/bigquery/BigQueryField.class
+com/criva/beam_word_count/wordcount/PickWordsFn.class
+com/criva/beam_word_count/bigquery/WriteToBigQuery.class
+com/criva/beam_word_count/wordcount/KeyValueToStringFn.class
+com/criva/beam_word_count/wordcount/WordCountBigQueryPipelineConstructor.class
+com/criva/beam_word_count/wordcount/WordCountPipelineConstructor.class
+com/criva/beam_word_count/bigquery/CreateRowFn.class
+com/criva/beam_word_count/pipeline/Options.class
+com/criva/beam_word_count/bigquery/WriteToBigQueryData.class
+com/criva/beam_word_count/bigquery/BigQueryFieldFn.class
+com/criva/beam_word_count/App.class
+com/criva/beam_word_count/bigquery/BigQueryOptions.class
+com/criva/beam_word_count/pipeline/PipelineConstructor.class
+com/criva/beam_word_count/wordcount/CountWords.class
